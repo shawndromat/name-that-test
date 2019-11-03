@@ -1,0 +1,26 @@
+{
+  "name": "name-that-test",
+  "version": "1.0.0",
+  "description": "An interactive game show to teach descriptive test-writing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawndromat/name-that-test.git"
+  },
+  "author": "Shawna Mattison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawndromat/name-that-test/issues"
+  },
+  "homepage": "https://github.com/shawndromat/name-that-test#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "@hapi/joi": "^16.1.7"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
